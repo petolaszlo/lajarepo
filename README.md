@@ -1,0 +1,2 @@
+# lajarepo
+első próbálkozásom
